@@ -1,2 +1,2 @@
-# Twitter_Realtime_Plot_With_Sentiment_Analysis
-Twitter Realtime Plot With Sentiment Analysis
+# Twitter_Realtime_Plot_With_Sentiment_Analysis Example
+Twitter Realtime Plot With Sentiment Analysis Example
