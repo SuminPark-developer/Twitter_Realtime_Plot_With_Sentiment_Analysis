@@ -5,7 +5,6 @@ import json
 from textblob import TextBlob
 import re
 import csv
-
 # import nltk
 # nltk.download('punkt')
 

@@ -6,7 +6,6 @@ from textblob import TextBlob
 import re
 import csv
 import os
-
 # import nltk
 # nltk.download('punkt')
 

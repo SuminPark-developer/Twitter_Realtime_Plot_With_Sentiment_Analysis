@@ -8,7 +8,6 @@ frame_len = 10000
 
 fig = plt.figure(figsize=(9, 6))
 
-
 def animate(i):
     data = pd.read_csv('tweet data.csv')
 
